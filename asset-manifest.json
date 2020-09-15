@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/VezdecodeVKMiniAppTaskiOS/static/js/main.e084359e.chunk.js",
+    "main.js.map": "/VezdecodeVKMiniAppTaskiOS/static/js/main.e084359e.chunk.js.map",
+    "runtime-main.js": "/VezdecodeVKMiniAppTaskiOS/static/js/runtime-main.8dd49c6e.js",
+    "runtime-main.js.map": "/VezdecodeVKMiniAppTaskiOS/static/js/runtime-main.8dd49c6e.js.map",
+    "static/css/2.09e62520.chunk.css": "/VezdecodeVKMiniAppTaskiOS/static/css/2.09e62520.chunk.css",
+    "static/js/2.8adaff6f.chunk.js": "/VezdecodeVKMiniAppTaskiOS/static/js/2.8adaff6f.chunk.js",
+    "static/js/2.8adaff6f.chunk.js.map": "/VezdecodeVKMiniAppTaskiOS/static/js/2.8adaff6f.chunk.js.map",
+    "index.html": "/VezdecodeVKMiniAppTaskiOS/index.html",
+    "precache-manifest.0bc2c1ce7be166eb2b87d1ed29996fd4.js": "/VezdecodeVKMiniAppTaskiOS/precache-manifest.0bc2c1ce7be166eb2b87d1ed29996fd4.js",
+    "service-worker.js": "/VezdecodeVKMiniAppTaskiOS/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/VezdecodeVKMiniAppTaskiOS/static/css/2.09e62520.chunk.css.map",
+    "static/js/2.8adaff6f.chunk.js.LICENSE.txt": "/VezdecodeVKMiniAppTaskiOS/static/js/2.8adaff6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dd49c6e.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.8adaff6f.chunk.js",
+    "static/js/main.e084359e.chunk.js"
+  ]
+}
